@@ -25,11 +25,11 @@ public class TraceService implements PingService {
 
     public TraceService(HostStatusService hostStatusService) {
         Properties appConfig = ApplicationConfigHelper.getApplicationConfig();
-        String[] hosts = appConfig.getProperty("hosts").split(",");
+        int numberOfHosts = appConfig.getProperty("hosts").split(",").length;
         this.delay = Integer.valueOf(appConfig.getProperty("trace.delay"));
         this.hostResponses = new HashMap<>();
         this.hostStatusService = hostStatusService;
-        executorService = Executors.newScheduledThreadPool(hosts.length);
+        executorService = Executors.newScheduledThreadPool(numberOfHosts);
     }
 
     @Override
