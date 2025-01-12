@@ -51,15 +51,10 @@ public class ReportService {
     void sendReport(HostReportRestDto hostReportData) {
         try {
             String url = UrlHelper.fixUrlPrefixes(reportUrl);
-            log.warn("Sending report to "+url+ "\n" +
-                    "host: "+hostReportData.getHost()+ "\n" +
-                    "latest ICMP ping response: "+hostReportData.getIcmpPingResponse() + "\n" +
-                    "latest TCP/IP ping response: "+ hostReportData.getTcpPingResponse() + "\n" +
-                    "latest trace route response:" + hostReportData.getTraceResponse());
-
             HttpClient client = HttpClient.newHttpClient();
             ObjectWriter objectWriter = new ObjectMapper().writer().withDefaultPrettyPrinter();
             String json = objectWriter.writeValueAsString(hostReportData);
+            log.warn("Sending report to " + url + "\n" + json);
             HttpRequest request = HttpRequest.newBuilder()
                     .POST(HttpRequest.BodyPublishers.ofString(json))
                     .uri(URI.create(url))
