@@ -38,7 +38,7 @@ class TcpIpRequestServiceTest {
         assertEquals(1, tcpIpRequestService.getHostResponses().size());
         assertNotNull(tcpIpRequestService.getHostResponses().get("google.com"));
         assertFalse(tcpIpRequestService.getHostResponses().get("google.com").isBlank());
-        verify(reportService,never()).triggerReport(any());
+        verify(reportService, never()).triggerReport(any());
     }
 
     @Test
@@ -47,7 +47,7 @@ class TcpIpRequestServiceTest {
         when(hostStatusService.getHosts()).thenReturn(hosts);
         Field timeout = TcpIpRequestService.class.getDeclaredField("timeout");
         timeout.setAccessible(true);
-        timeout.set(tcpIpRequestService,1);
+        timeout.set(tcpIpRequestService, 1);
 
         tcpIpRequestService.pingHosts();
         Thread.sleep(1000);
@@ -55,7 +55,7 @@ class TcpIpRequestServiceTest {
         assertEquals(1, tcpIpRequestService.getHostResponses().size());
         assertNotNull(tcpIpRequestService.getHostResponses().get("google.com"));
         assertFalse(tcpIpRequestService.getHostResponses().get("google.com").isBlank());
-        verify(reportService,atLeastOnce()).triggerReport(any());
+        verify(reportService, atLeastOnce()).triggerReport(any());
     }
 
     @Test
@@ -69,7 +69,7 @@ class TcpIpRequestServiceTest {
         assertEquals(1, tcpIpRequestService.getHostResponses().size());
         assertNotNull(tcpIpRequestService.getHostResponses().get("oranum.com"));
         assertFalse(tcpIpRequestService.getHostResponses().get("oranum.com").isBlank());
-        verify(reportService,atLeastOnce()).triggerReport(any());
+        verify(reportService, atLeastOnce()).triggerReport(any());
     }
 
     @Test
@@ -83,11 +83,12 @@ class TcpIpRequestServiceTest {
         assertEquals(1, tcpIpRequestService.getHostResponses().size());
         assertNotNull(tcpIpRequestService.getHostResponses().get("https://stackofervlow.com"));
         assertFalse(tcpIpRequestService.getHostResponses().get("https://stackofervlow.com").isBlank());
-        verify(reportService,atLeastOnce()).triggerReport(any());
+        verify(reportService, atLeastOnce()).triggerReport(any());
     }
+
     @Test
     void pingHosts_twoHosts_shouldStoreResults() throws InterruptedException {
-        List<String> hosts = List.of("oranum.com","jasmin.com");
+        List<String> hosts = List.of("oranum.com", "jasmin.com");
         when(hostStatusService.getHosts()).thenReturn(hosts);
 
         tcpIpRequestService.pingHosts();
@@ -98,6 +99,6 @@ class TcpIpRequestServiceTest {
         assertNotNull(tcpIpRequestService.getHostResponses().get("oranum.com"));
         assertFalse(tcpIpRequestService.getHostResponses().get("jasmin.com").isBlank());
         assertFalse(tcpIpRequestService.getHostResponses().get("oranum.com").isBlank());
-        verify(reportService,atLeastOnce()).triggerReport(any());
+        verify(reportService, atLeastOnce()).triggerReport(any());
     }
 }

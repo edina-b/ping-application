@@ -23,7 +23,6 @@ public class TraceService implements PingService {
     private final HostStatusService hostStatusService;
     private final ScheduledExecutorService executorService;
 
-
     public TraceService(HostStatusService hostStatusService) {
         Properties appConfig = ApplicationConfigHelper.getApplicationConfig();
         String[] hosts = appConfig.getProperty("hosts").split(",");

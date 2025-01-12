@@ -12,7 +12,7 @@ public class UrlHelper {
                 url = "https://www." + url;
             }
         } else {
-            if(url.startsWith("http:")){
+            if (url.startsWith("http:")) {
                 url = url.replaceFirst("http", "https");
             }
             if (url.startsWith("www")) {

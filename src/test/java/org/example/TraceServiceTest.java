@@ -1,6 +1,5 @@
 package org.example;
 
-import org.example.report.ReportService;
 import org.example.status.HostStatusService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

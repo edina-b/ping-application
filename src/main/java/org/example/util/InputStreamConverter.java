@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class InputStreamConverter {
 
-    public static String convertToString(InputStream inputStream){
+    public static String convertToString(InputStream inputStream) {
         return new BufferedReader(
                 new InputStreamReader(inputStream, StandardCharsets.UTF_8))
                 .lines()

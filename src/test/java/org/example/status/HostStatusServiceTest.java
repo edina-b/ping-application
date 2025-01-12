@@ -1,8 +1,6 @@
 package org.example.status;
 
 
-import org.example.status.HostStatusDto;
-import org.example.status.HostStatusService;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
@@ -43,7 +41,7 @@ public class HostStatusServiceTest {
 
         hostStatusService.updateHostIcmpStatus(TEST_HOST_1, TEST_STATUS);
 
-        assertEquals(TEST_STATUS,hostStatuses.get(TEST_HOST_1).getIcmpResponse());
+        assertEquals(TEST_STATUS, hostStatuses.get(TEST_HOST_1).getIcmpResponse());
     }
 
     @Test
@@ -53,7 +51,7 @@ public class HostStatusServiceTest {
 
         hostStatusService.updateHostTcpIpStatus(TEST_HOST_2, TEST_STATUS);
 
-        assertEquals(TEST_STATUS,statusDto.getTcpIpResponse());
+        assertEquals(TEST_STATUS, statusDto.getTcpIpResponse());
     }
 
     @Test
@@ -63,6 +61,6 @@ public class HostStatusServiceTest {
 
         hostStatusService.updateHostTraceStatus(TEST_HOST_1, TEST_STATUS);
 
-        assertEquals(TEST_STATUS,statusDto.getTraceResponse());
+        assertEquals(TEST_STATUS, statusDto.getTraceResponse());
     }
 }

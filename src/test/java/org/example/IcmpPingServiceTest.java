@@ -3,7 +3,6 @@ package org.example;
 import org.example.report.ReportService;
 import org.example.status.HostStatusService;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
@@ -45,9 +44,10 @@ class IcmpPingServiceTest {
         verify(hostStatusService, atLeastOnce()).updateHostIcmpStatus(any(), any());
         verify(reportService, never()).triggerReport(any());
     }
+
     @Test
     void pingHosts_oneHostWithoutTimeOut_shouldStoreResponseAndNotCallReport() throws InterruptedException {
-        List<String> hosts = List.of( "google.com");
+        List<String> hosts = List.of("google.com");
         when(hostStatusService.getHosts()).thenReturn(hosts);
         assertTrue(icmpPingService.getHostResponses().isEmpty());
 
