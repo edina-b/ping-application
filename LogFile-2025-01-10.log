@@ -1,0 +1,2009 @@
+256  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+256  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+294  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+323  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+351  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+380  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+410  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+438  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+466  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+496  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+525  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+553  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+582  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+611  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+640  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+669  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+699  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+729  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+758  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+786  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+814  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+842  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+870  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+899  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+928  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+957  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+987  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1014 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1042 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1071 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1099 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1128 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1156 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1186 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1215 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1245 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1273 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1301 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1329 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1357 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1386 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1415 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1446 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1476 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1506 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1535 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1565 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1594 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1625 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1655 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1684 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1713 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1743 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1772 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1801 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1829 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1858 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1888 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1918 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1947 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1975 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2004 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2035 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2065 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2095 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2123 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2151 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2181 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2209 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2238 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2267 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2297 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2328 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2357 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2386 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2414 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2445 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2476 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2504 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2533 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2561 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2588 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2616 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2646 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2675 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2703 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2732 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2760 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2789 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2818 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2846 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2875 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2903 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2930 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2957 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2985 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3015 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3056 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3089 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3120 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3153 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3188 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3222 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3254 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3286 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3319 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3353 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3385 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3417 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3448 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3482 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3514 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3548 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3578 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3610 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3639 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3667 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3697 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3727 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3759 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3792 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3824 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3855 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3878 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3893 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3925 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3955 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+3986 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4023 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4059 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4091 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4123 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4153 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4184 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4217 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4247 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4276 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4308 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4338 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4367 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4395 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4426 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4459 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4488 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4516 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4544 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4571 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4601 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4633 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4663 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4691 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4718 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4748 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4777 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4804 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4834 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4864 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4893 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4921 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4949 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4977 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5004 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5037 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5067 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5097 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5125 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5153 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5182 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5210 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5240 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5270 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5303 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5336 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5369 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5398 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5428 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5457 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5488 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5520 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5551 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5581 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5613 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5642 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5672 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5702 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5734 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5765 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5794 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5823 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5852 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5882 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5912 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5942 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5973 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6003 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6033 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6063 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6092 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6120 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6151 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6180 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6209 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6238 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6267 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6296 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6326 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6359 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6391 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6422 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6451 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6481 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6511 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6541 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6570 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6598 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6628 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6657 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6684 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6711 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6738 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6767 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6796 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6825 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6852 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6880 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6907 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6935 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6962 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6991 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7019 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7047 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7077 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7105 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7134 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7161 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7189 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7219 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7250 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7279 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7306 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7334 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7363 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7390 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7418 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7447 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7476 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7505 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7536 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7563 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7590 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7617 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7645 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7674 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7703 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7732 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7760 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7788 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7816 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7844 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7863 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7871 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7899 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7928 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7958 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+7989 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8018 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8044 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8072 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8100 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8134 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8162 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8191 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8218 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8246 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8274 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8303 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8331 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8359 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8387 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8418 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8447 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8477 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8505 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8532 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8561 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8590 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8619 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8647 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8675 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8702 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8730 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8759 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8787 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8816 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8844 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8873 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8903 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8932 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8959 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8986 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9016 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9045 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9074 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9102 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9129 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9157 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9185 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9213 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9242 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9271 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9300 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9327 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9354 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9383 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9411 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9439 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9467 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9497 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9526 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9555 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9583 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9610 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9637 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9663 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9693 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9722 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9751 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9779 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9807 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9836 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9864 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9894 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9924 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9952 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+9981 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+10009 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+10038 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+219  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+219  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+259  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+289  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+318  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+348  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+377  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+404  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+432  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+460  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+488  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+516  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+543  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+570  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+604  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+632  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+661  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+691  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+722  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+752  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+780  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+808  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+835  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+864  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+895  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+927  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+957  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+987  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1015 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1043 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1073 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1103 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1135 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1163 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1191 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1218 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1245 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1272 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1301 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1330 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1359 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1388 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1425 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1452 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1481 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1510 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1540 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1569 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1598 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1627 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1656 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1685 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1713 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1743 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1776 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1805 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1834 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1861 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1891 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1919 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1949 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+1978 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2006 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2033 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2060 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2088 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2116 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2144 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2174 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2202 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2230 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2258 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2286 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+2314 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+207  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+207  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+610  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1003 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1397 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1802 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+2205 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+2598 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3009 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3406 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3799 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4181 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4210 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+4608 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5000 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5407 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+5805 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+6198 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+6611 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7004 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7410 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7809 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+8169 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8198 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+8605 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: google.com
+206  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+206  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+610  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1005 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1397 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1806 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+2203 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+2613 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3009 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3400 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3750 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3810 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+4206 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+4600 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+5009 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+5402 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+5808 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+6201 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+208  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+208  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+606  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+1002 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1412 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1804 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+3779 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7772 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+11771 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15767 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+211  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+211  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+614  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1007 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1401 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1814 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+4203 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8193 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12196 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16200 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+209  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+209  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+616  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+1010 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+1416 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1809 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2202 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+2608 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+3015 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3411 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+3808 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+4126 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4202 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+4604 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+5008 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+5414 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+5803 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+6211 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+6615 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+7008 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7412 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+7815 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+8133 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8209 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+8603 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+9000 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+9411 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+9808 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+195  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+195  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+597  [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+989  [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+1390 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+1799 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+2193 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+2587 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+2996 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+3392 [pool-1-thread-2] INFO  org.example.IcmpPingService - Pinging host: google.com
+3790 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3810 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4199 [pool-1-thread-4] INFO  org.example.IcmpPingService - Pinging host: google.com
+207  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+207  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+238  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+272  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+304  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+334  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4133 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+209  [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+209  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+242  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+272  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+303  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+333  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3938 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7938 [pool-1-thread-3] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+375  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+416  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4138 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4169 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8137 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8169 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12128 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12158 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16125 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16157 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+380  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+414  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4297 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4328 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8302 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8334 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12302 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12333 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16298 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16329 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+367  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+406  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3940 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3972 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7941 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7973 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+11936 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+11966 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15939 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+15970 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+350  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+384  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4305 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4336 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8314 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8345 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+411  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+446  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4412 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4446 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8410 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8440 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12397 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12428 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16413 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16444 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+423  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+458  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4213 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4244 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8201 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8232 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12209 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12241 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16199 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16230 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+404  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+441  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4114 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4142 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8109 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8139 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12118 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12149 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16121 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16149 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+457  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+493  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4181 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4210 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8185 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8214 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12176 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12207 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16187 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16215 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+383  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+416  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4014 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4043 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8006 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8035 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+12015 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+12046 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+16010 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+16039 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+442  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com delay:100ms
+478  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com delay:100ms
+4238 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com delay:100ms
+4266 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com delay:100ms
+8240 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com delay:100ms
+8268 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com delay:100ms
+12242 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com delay:100ms
+12272 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com delay:100ms
+16241 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com delay:100ms
+16270 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com delay:100ms
+284  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+286  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+490  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+490  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+695  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+695  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+884  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+885  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+1091 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+1091 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+1295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+1295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+1485 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+1485 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+1686 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+1686 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+1889 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+1889 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+2090 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+2091 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+2294 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+2294 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+2494 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+2494 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+2683 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+2683 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+2886 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+2886 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+3088 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+3088 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+3290 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+3290 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+3496 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+3496 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+3687 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+3687 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+3890 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+3891 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+4089 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+4089 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+4290 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+4290 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+4494 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+4494 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+4698 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+4698 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+4887 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+4887 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+5091 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+5091 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+5295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+5295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+5498 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+5498 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+5688 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+5689 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+5892 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+5892 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+6097 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+6097 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+6295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+6295 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+6495 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+6495 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+6683 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: google.com
+6683 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - no protocol: oranum.com
+325  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+326  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+517  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+517  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+723  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+723  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+925  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+925  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1128 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1128 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1318 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1318 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1521 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1521 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1727 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1728 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1931 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+1931 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2116 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2132 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2331 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2331 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2519 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+2520 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Failed to select a proxy
+10728 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:http://google.com
+874665 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET http://google.com) 301
+874673 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:http://oranum.com
+25935 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://google.com
+86359 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://google.com) 301
+86367 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://oranum.com
+23806 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+429468 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+429476 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7253 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9437 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9444 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9530 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9533 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9645 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9647 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9719 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9721 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9835 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9837 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9912 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9914 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10027 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10029 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10096 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10098 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10210 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10212 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10270 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10272 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10391 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10445 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10447 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10566 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10568 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10635 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10637 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10749 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10751 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10813 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10816 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10936 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10938 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10998 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11000 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11117 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11119 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11199 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11202 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11311 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11313 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11371 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11372 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11493 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11495 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11556 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11558 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11661 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11663 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11724 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11726 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11833 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11835 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11896 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12004 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12006 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12062 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12064 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12176 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12178 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12237 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12239 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12355 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12356 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12421 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12423 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12559 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12561 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12620 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12622 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12734 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12735 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12785 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12786 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12895 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12966 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12967 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13095 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13097 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13180 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13182 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13305 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13307 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13416 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13418 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13549 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13551 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13641 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13643 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13753 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13754 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13812 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13814 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13923 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13924 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13996 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13998 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14107 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14108 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14166 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14168 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14274 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14276 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14329 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14331 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14443 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14445 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14512 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14619 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14621 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14690 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14807 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14808 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14877 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14879 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14999 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15001 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15051 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15053 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15176 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15177 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15236 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15238 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15347 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15349 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15417 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15419 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15533 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15534 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15594 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15596 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15705 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15707 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15756 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15759 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15873 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15875 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15939 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15941 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16047 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16048 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16101 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16103 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16206 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16208 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16263 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16265 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16382 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16445 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16446 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16567 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16569 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16617 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16619 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16747 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16749 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16821 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16823 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16933 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16935 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17000 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17002 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17121 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17123 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17186 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17188 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17310 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17312 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17378 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17380 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17491 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17493 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17557 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17559 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17672 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17674 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17745 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17747 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17856 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17857 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17910 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17912 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18024 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18026 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18079 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18081 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18188 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18189 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18239 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18241 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18344 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18346 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18401 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18403 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18513 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18586 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18588 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18694 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18695 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18752 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18753 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18864 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18866 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18928 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18929 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19062 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19064 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19123 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19124 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19232 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19233 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19321 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19322 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19427 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19429 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19479 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19481 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19592 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19593 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19649 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19651 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19756 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19758 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19810 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19812 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19919 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19920 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19974 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19976 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20084 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20086 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20162 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20164 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20287 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20289 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20341 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20343 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20449 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20451 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20512 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20513 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20622 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20624 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20680 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20682 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20794 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20795 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20858 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20860 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20981 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20983 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21083 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21084 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21197 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21199 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21276 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21278 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21440 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21441 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21553 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21554 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21615 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21616 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21734 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21735 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21785 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21786 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21895 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21970 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21972 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22109 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22110 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22193 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22195 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22306 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22308 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22367 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22369 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22482 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22484 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22534 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22536 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22638 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22640 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22699 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22701 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22803 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22805 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22858 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22859 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22976 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22978 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+23038 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+23040 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+23188 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+23189 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+23248 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+23250 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+409  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+774  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+778  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+867  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+869  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+982  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+983  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1055 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1057 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1176 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1178 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1249 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1251 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1361 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1363 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1419 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1421 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1535 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1537 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1605 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1607 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1721 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1722 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1801 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1803 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1913 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1915 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1967 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1969 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2080 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2082 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2140 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2142 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2249 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2251 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2321 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2323 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2467 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2469 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2528 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2530 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2643 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2645 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2719 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2721 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2834 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2835 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2897 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2898 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3007 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3009 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3058 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3061 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3178 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3179 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3253 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3255 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3365 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3366 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3438 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3440 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3558 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3559 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3629 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3631 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3741 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3743 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3804 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3805 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3926 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3927 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3995 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3996 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4151 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4153 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4222 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4224 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4336 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4338 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4506 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4572 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4574 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4690 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4751 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4753 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4871 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4873 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4938 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4939 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5052 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5054 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5115 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5117 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5225 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5227 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5289 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5291 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5405 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5407 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5460 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5481 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5596 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5597 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5670 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5672 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5786 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5788 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5853 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5880 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5994 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5996 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6047 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6078 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6184 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6186 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6255 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6279 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6395 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6458 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6482 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6598 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6600 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6661 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6684 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6795 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6797 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6851 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6886 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7027 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7029 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7082 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7084 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7192 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7194 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7252 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7286 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7398 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7400 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7461 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7474 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7582 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7584 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7650 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7678 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7778 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7780 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7855 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7880 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7990 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7992 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8056 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8081 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8187 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8188 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8240 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8278 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8389 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8390 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8455 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8479 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8584 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8586 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8654 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8680 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8789 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8790 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8857 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8878 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8986 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8987 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9046 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9077 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9194 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9195 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9258 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9277 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9389 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9455 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9476 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9588 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9590 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9642 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9677 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9787 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9788 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9843 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9874 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9977 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9979 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10046 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10075 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10190 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10192 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10262 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10278 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+566  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+892  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+896  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+989  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1526 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1528 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1591 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2517 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2585 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+577  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+884  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+889  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+975  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1576 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2494 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2496 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2572 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+555  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://google.com
+907  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://google.com) 301
+912  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1010 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://google.com
+1459 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://google.com) 301
+1461 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1531 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://google.com
+2452 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://google.com) 301
+2454 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2524 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3379 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://google.com
+526  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+833  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+837  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+946  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1380 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1489 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1491 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1623 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2380 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2494 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2496 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2562 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3377 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3434 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3472 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3503 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3505 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3574 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4378 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4489 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4490 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4567 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5498 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5499 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5554 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6390 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6579 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7070 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7099 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7382 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7486 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7487 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7555 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8387 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8497 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8499 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8556 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9490 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9492 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9553 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10379 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10489 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10490 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10540 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11066 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+11094 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+11378 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11486 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11488 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11542 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12374 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12471 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12473 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12557 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13376 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13495 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13497 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13552 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14375 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14503 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14577 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15064 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+15093 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15373 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15478 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15480 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15549 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16499 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16501 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16557 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17492 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17493 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17548 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18377 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18489 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18490 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18544 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19072 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+19101 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+19385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19484 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19486 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19547 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20380 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20559 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21378 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21500 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21558 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22374 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22477 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22478 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22527 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+23388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+751  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1098 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1104 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1179 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1637 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1639 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1715 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2623 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2625 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3598 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3635 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3645 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3649 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3720 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4686 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4744 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5629 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5631 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6506 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6642 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6644 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6699 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+7360 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7389 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7630 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7631 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7747 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8630 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8632 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8688 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+9502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9622 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9624 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9680 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10625 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10626 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10693 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11360 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+11389 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+11514 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11619 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11621 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11708 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12502 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12612 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+12614 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12677 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+13509 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13609 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+13611 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13675 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+14515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14683 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+14685 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14743 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+15361 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+15390 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15516 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15619 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+15621 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15671 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+16512 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16642 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+16644 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16704 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+17508 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17624 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+17625 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17693 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+18513 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18612 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+18614 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18674 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+19357 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+19386 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+19513 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19626 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+19628 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19677 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+20511 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20621 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+20623 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20685 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+21509 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21637 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+21639 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21698 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+22504 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22602 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+22604 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22671 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+23506 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+23620 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+23621 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+23682 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+604  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+656  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+658  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+678  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3465 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3514 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+5408 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5409 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+5411 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5413 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+7549 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7585 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+10400 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10414 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+10416 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10426 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+11545 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+11581 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15402 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15415 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15417 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15428 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15547 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+15583 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+19552 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+19589 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+20402 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20403 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+20404 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20419 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+555  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+604  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+607  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+609  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+896  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+897  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+898  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+899  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1384 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1387 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1885 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1904 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1905 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1915 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2387 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2398 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2400 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2410 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2884 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2896 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2898 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2899 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3396 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3398 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3399 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3435 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+3476 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+3892 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3893 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3906 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+4393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4406 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+4408 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4421 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+4890 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4903 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+4904 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4905 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+5397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5411 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+5413 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5424 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+5890 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5891 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+5892 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+5893 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+6394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6395 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+6396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6406 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+6897 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6912 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+6913 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6924 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+7341 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+7377 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+7386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7387 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+7388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7399 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+7890 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7901 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+7902 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7903 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+8388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8389 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+8390 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8401 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+8894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8908 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+8909 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8922 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+9394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9395 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+9396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9397 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+9895 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9907 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+9909 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9919 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+10391 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10392 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+10393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10403 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+10894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10908 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+10909 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10920 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+11348 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+11385 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+11393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11394 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+11395 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11396 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+11882 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11894 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+11896 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11906 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+12396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12397 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+12398 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12399 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+12895 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12909 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+12911 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12924 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+13397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13411 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+13413 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13424 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+13886 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+13900 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+13901 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+13902 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+14393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14407 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+14408 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14419 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+14891 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+14892 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+14893 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+14903 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15351 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+15388 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+15395 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15396 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15398 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15884 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+15885 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+15887 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+15897 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+16383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16384 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+16385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16386 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+16889 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+16901 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+16902 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+16903 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+17392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17404 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+17410 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17411 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+17897 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+17898 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+17899 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+17911 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+18396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18407 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+18409 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18419 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+18895 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+18896 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+18897 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+18907 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+19353 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+19383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19384 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+19385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19389 [pool-2-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+19395 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+19884 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+19885 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+19886 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+19887 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+20385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20396 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+20397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20398 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+20882 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+20883 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+20884 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+20896 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+21392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21406 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+21408 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21418 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+21892 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+21893 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+21894 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+21905 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+22382 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22383 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+22384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22385 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+22883 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+22884 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+22886 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+22897 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+23384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+23385 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+23386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+23387 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+586  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+907  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+911  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+991  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+993  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1100 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1103 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1164 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1423 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1536 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1538 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1595 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1936 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2046 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2048 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2124 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2434 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2541 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2543 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2602 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2938 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3045 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3047 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3109 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3424 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+387  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+423  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+391  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+426  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4313 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4342 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8323 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8352 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+387  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+422  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4448 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4476 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+8444 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+8473 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+370  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+410  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+368  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+399  [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+4311 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: google.com
+4340 [pool-1-thread-1] INFO  org.example.IcmpPingService - Pinging host: oranum.com
+537  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+590  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1391 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1392 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2395 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2397 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3394 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+478  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+524  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+1347 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1349 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+2346 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2348 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+3353 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3369 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+491  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+502  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+24611 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - HTTP connect timed out
+24613 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+558  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1419 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2419 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3407 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4416 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5406 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6411 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7407 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8410 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9409 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10413 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+497  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+781  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1371 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1440 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2366 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2435 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3368 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+3424 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+4357 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+4436 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+5357 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+551  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+803  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+1386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+1459 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+2383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+2454 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+3388 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+575  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+910  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1517 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2395 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2507 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3417 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3519 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4424 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4505 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5391 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5421 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5497 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6391 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6421 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6427 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+6496 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+6511 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7387 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7417 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7433 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+7500 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7508 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8426 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8441 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+8498 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+8501 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9431 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9431 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+548  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google
+1367 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google
+1368 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+2382 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google
+2383 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+3380 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google
+3381 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+549  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+1379 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+1380 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+2375 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+2376 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+3381 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+3382 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+480  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+35435 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+35438 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+35440 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+35443 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+35444 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+35446 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com/
+35447 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+609  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+660  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+1399 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1401 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+2396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2397 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+3394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3396 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+538  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+527  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1385 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2383 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3376 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148637 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+148640 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148644 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+148645 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148647 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+148648 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148650 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+148651 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148652 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+148653 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+148654 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - null
+506  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+557  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:11 http://stackofervlow.com HTTP connect exception
+1367 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1368 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:11 http://stackofervlow.com HTTP connect exception
+2366 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2368 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:11 http://stackofervlow.com HTTP connect exception
+3365 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3367 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:11 http://stackofervlow.com HTTP connect exception
+500  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+553  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:12 http://stackofervlow.com HTTP connect exception
+1356 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1358 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:12 http://stackofervlow.com HTTP connect exception
+2354 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2355 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:12 http://stackofervlow.com HTTP connect exception
+3361 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3363 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 05:12 http://stackofervlow.com HTTP connect exception
+492  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+544  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:12 http://stackofervlow.com HTTP connect exception
+1358 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1360 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:12 http://stackofervlow.com HTTP connect exception
+2354 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2356 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:12 http://stackofervlow.com HTTP connect exception
+3357 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3358 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:12 http://stackofervlow.com HTTP connect exception
+542  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6058 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+6062 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6063 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+6065 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6066 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+6067 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6068 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+6070 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6071 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+6073 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6073 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - Ljava/net/ConnectException;
+525  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+577  [pool-1-thread-1] ERROR org.example.TcpIpRequestService - java.net.ConnectException
+1378 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1379 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - java.net.ConnectException
+2376 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2377 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - java.net.ConnectException
+3366 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3367 [pool-1-thread-1] ERROR org.example.TcpIpRequestService - java.net.ConnectException
+550  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+616  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - [10/01/2025 - 17:21] http://stackofervlow.com HTTP connect exception
+1397 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1398 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - [10/01/2025 - 17:21] http://stackofervlow.com HTTP connect exception
+2392 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - [10/01/2025 - 17:21] http://stackofervlow.com HTTP connect exception
+3394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - [10/01/2025 - 17:21] http://stackofervlow.com HTTP connect exception
+545  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+598  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:22:06 http://stackofervlow.com HTTP connect exception
+1393 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+1394 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:22:07 http://stackofervlow.com HTTP connect exception
+2384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+2386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:22:07 http://stackofervlow.com HTTP connect exception
+3384 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3386 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:22:08 http://stackofervlow.com HTTP connect exception
+579  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+908  [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+1406 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+1515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+2411 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+2527 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+3409 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+3434 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+3441 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:53 http://stackofervlow.com HTTP connect exception
+3525 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+4403 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+4448 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+4450 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:54 http://stackofervlow.com HTTP connect exception
+4525 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+5408 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+5440 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+5442 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:55 http://stackofervlow.com HTTP connect exception
+5522 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+6401 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6450 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+6451 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:56 http://stackofervlow.com HTTP connect exception
+6455 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+6464 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:56 google.com HTTP connect timed out
+6520 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+7404 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7449 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+7451 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:57 http://stackofervlow.com HTTP connect exception
+7465 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+7467 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:57 google.com HTTP connect timed out
+7520 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+8402 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8434 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+8436 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:58 http://stackofervlow.com HTTP connect exception
+8465 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+8480 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:58 google.com HTTP connect timed out
+8515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9410 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9441 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+9443 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:59 http://stackofervlow.com HTTP connect exception
+9456 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+9457 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:23:59 google.com HTTP connect timed out
+9460 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+9528 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+9554 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+10402 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10434 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+10436 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:24:00 http://stackofervlow.com HTTP connect exception
+10466 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+10466 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+10467 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:24:00 google.com HTTP connect timed out
+10515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+10558 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+11396 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11441 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+11442 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:24:01 http://stackofervlow.com HTTP connect exception
+11457 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+11472 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:24:01 google.com HTTP connect timed out
+11472 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+11515 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.google.com) 200
+11526 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Response: (GET https://www.oranum.com) 301
+12400 [pool-1-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
+12446 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.stackofervlow.com
+12447 [pool-2-thread-1] INFO  org.example.TcpIpRequestService - 10/01/2025 - 17:24:02 http://stackofervlow.com HTTP connect exception
+12462 [pool-4-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.oranum.com
+12462 [pool-3-thread-1] INFO  org.example.TcpIpRequestService - Sending request to url:https://www.google.com
